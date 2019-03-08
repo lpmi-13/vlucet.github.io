@@ -31,6 +31,7 @@ p {
     font-size: 1em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     line-height: 1.4em;
+    text-align: justify;
     color: #333;
 }
 footer {
