@@ -5,9 +5,7 @@ title: Research interests
 
 # Teaching
 
-----
-
-## Workshops
+## *Workshops*
 
 ## Git And Github Workshop
 **Level:** beginner  
