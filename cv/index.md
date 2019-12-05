@@ -3,31 +3,25 @@ layout: default
 title: CV
 ---
 
-As a graduate student at McGill University, I am interested in modelling Social-Ecological Systems (SES). I believe SES modelling is best performed with interdisciplinary methods.
-
-- My current project focuses on the conservation of fragmented habitats. I study how land use and land cover change impact the conservation of ecological connectivity.
-
-- I make use of traditional methods of land use change modelling (geo-statistics and allocation algorithms), as well as participatory modelling methods via Bayesian Belief Networks.
-
-- Science communication enthusiast, I am the co-founder of the Connecting Conservation Blog.
+# CV
 
 ## EDUCATION and HONOURS
 
-**McGill University – Master of Science** _                                          Montreal, QC, Canada_
+**McGill University ï¿½ Master of Science** _                                          Montreal, QC, Canada_
 
-- **M.Sc. Biology, Gonzalez Lab                                                    ** _2018 – present_
+- **M.Sc. Biology, Gonzalez Lab                                                    ** _2018 ï¿½ present_
 
 Thesis: _Socially realistic scenarios of land use change in Monteregie: implications for the conservation of ecological connectivity_
 
-**McGill University – Bachelor of Science                                                  ** _Montreal, QC, Canada_
+**McGill University ï¿½ Bachelor of Science                                                  ** _Montreal, QC, Canada_
 
-- **B.Sc. (Hons) Biology (Maj.) &amp; Anthropology (Min.)            ** _                       2014 – 2018_
+- **B.Sc. (Hons) Biology (Maj.) &amp; Anthropology (Min.)            ** _                       2014 ï¿½ 2018_
 
 Focus on conservation biology and political ecology
 
 - _Frank Rigler Prize in Ecology_
 
-**McGill University – McGill Bellairs Research Institute        ** _Holetown, Barbados &amp; Montreal_
+**McGill University ï¿½ McGill Bellairs Research Institute        ** _Holetown, Barbados &amp; Montreal_
 
 - _SURA (Student Undergraduate Research Award)_ **                                         ** _Summer 2017_
 
@@ -37,11 +31,11 @@ Focus on conservation biology and political ecology
   - **oo**** 4 weeks of field work**
   - **oo**** 8 weeks of internship** at the laboratory of Dr Frederic Guichard to develop computer models
 
-**Lycée Saint Dominique – French Baccalaureate Diploma                ** _Neuilly Sur Seine, France_
+**Lycï¿½e Saint Dominique ï¿½ French Baccalaureate Diploma                ** _Neuilly Sur Seine, France_
 
 Grade: 17.5/20, Scientific section                                                                                _2011 - 2014_
 
-- _Upper honours (&quot;mention très bien&quot;)_
+- _Upper honours (&quot;mention trï¿½s bien&quot;)_
 
 ## TEACHING
 
@@ -49,8 +43,8 @@ Grade: 17.5/20, Scientific section                                              
 
 **Teaching Assistant**
 
-- Animal Diversity BIOL 305 – Labs, grading                                        _Winter 2019_
-- Conservation Biology BIOL 465 – Tutorials, lectures, grading                     _Fall 2018_
+- Animal Diversity BIOL 305 ï¿½ Labs, grading                                        _Winter 2019_
+- Conservation Biology BIOL 465 ï¿½ Tutorials, lectures, grading                     _Fall 2018_
 
 **Statistics Undergraduate Tutor**
 
@@ -74,23 +68,23 @@ Grade: 17.5/20, Scientific section                                              
 
 **ARCHELON (Sea Turtle Protection Society of Greece)                **_Chania &amp; Rethymnon, Crete_
 
-_Volunteer Team member – Morning survey leader_ _                          Summer 2015, Summer 2016_
+_Volunteer Team member ï¿½ Morning survey leader_ _                          Summer 2015, Summer 2016_
 
 - _Total of 5 months of experience in the field_ _                                  _
 
 - Trained to conservation procedures for the Loggerhead Sea Turtle (_Caretta caretta_) for nesting and hatchling season. Public awareness training.
 
-**McGill University – Laboratory of Dr. Ehab Abouheif                                           ** _2015-2016_
+**McGill University ï¿½ Laboratory of Dr. Ehab Abouheif                                           ** _2015-2016_
 
 ** ** _Undergraduate Volunteer, ant colony care_ _                                   _
 
-**WWF Quebec** – project &quot;Ours Polaire sur Glaces Ephémères&quot;                                       _2015_
+**WWF Quebec** ï¿½ project &quot;Ours Polaire sur Glaces Ephï¿½mï¿½res&quot;                                       _2015_
 
-**McGill bird observatory** – Bird-watching and banding                                                _2014_
+**McGill bird observatory** ï¿½ Bird-watching and banding                                                _2014_
 
 **Editions Heloise D&#39;Ormesson (Paris, France)                                               ** _Fall 2012_ **     ** _ _
 
-** ** _Intern – Manuscripts Proof Reader_ _                                                                             _
+** ** _Intern ï¿½ Manuscripts Proof Reader_ _                                                                             _
 
 ## PROJECTS and SKILLS
 
@@ -102,7 +96,7 @@ _Volunteer Team member – Morning survey leader_ _                          Summe
 
 **Science communication**
 
-- **Connecting Conservation Blog –** [https://connectingconservation.blog/](https://connectingconservation.blog/)
+- **Connecting Conservation Blog ï¿½** [https://connectingconservation.blog/](https://connectingconservation.blog/)
 
 Promotes diversity, interdisciplinarity and accessibility in conservation sciences
 
@@ -120,9 +114,9 @@ French (native), English (bilingual), Spanish (moderate).
 
 -
   - Project Ambassador for McGill&#39;s Redpath Museum &quot;[Plesiosaur Project](https://www.mcgill.ca/seedsofchange/project/redpath-museum-plesiosaur)&quot;, with McGill Seeds of Change crowdfunding platform
-    - **Total of $13,000 raised in 62 days – funded at 130%.**
+    - **Total of $13,000 raised in 62 days ï¿½ funded at 130%.**
   - Lead Ambassador and Student Member of the Board for Redpath Museum&#39;s &quot;[Cutting edge Lectures Project](https://www.mcgill.ca/seedsofchange/project/cutting-edge-lecture-series-project)&quot;, with McGill Seeds of Change crowdfunding platform.
-    - **Goal of $5000, total of $2,850 raised in 108 days – funded at 57%.**
+    - **Goal of $5000, total of $2,850 raised in 108 days ï¿½ funded at 57%.**
 
 **Hobbies:**
 
