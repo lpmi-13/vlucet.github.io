@@ -63,7 +63,7 @@ Grade: 17.5/20, Scientific section _2011 - 2014_
 **McGill bird observatory** ~ Bird-watching and banding _2014_
 
 **Editions Heloise D&#39;Ormesson (Paris, France)** _Fall 2012_
-- _Intern � Manuscripts Proof Reader_
+- _Intern ~ Manuscripts Proof Reader_
 
 ## PROJECTS and SKILLS
 
