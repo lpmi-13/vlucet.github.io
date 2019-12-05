@@ -8,7 +8,7 @@ title: Research interests
 ## *Workshops*
 
 ### [Git And Github Workshop](https://vlucet.github.io/git-and-github-with-r-workshop/)
-<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png"> alt="Me" style="float:right;width:20%;display:inline-block" hspace="10">
+<img src="https://git-scm.com/images/logos/2color-lightbg@2x.png" alt="Me" style="float:right;width:20%;display:inline-block" hspace="10">
 <!-- <img align="right" width="150" height="50" src="https://git-scm.com/images/logos/2color-lightbg@2x.png"> -->
 **Level:** beginner  
 **Length:** 1 hour (preparation) + 2 hours (material)  
