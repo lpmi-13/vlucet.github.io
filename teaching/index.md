@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: default_noround
 title: Research interests
 ---
 
