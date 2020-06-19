@@ -8,7 +8,7 @@ title: CV
 ## EDUCATION and HONOURS
 
 **McGill University ~ Master of Science**  _Montreal, QC, Canada_
-- **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_ <img style="float: right;" width="310" class="classic_img" src="/pics/mcgill_logo.png">
+- **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_ <a href="https://www.mcgill.ca/"> <img style="float: right;" width="310" class="classic_img" src="/pics/mcgill_logo.png"> </a>
   - _FRQNT Graduate Scholarship_
   - Thesis (advisor: Prof. Andrew Gonzalez): _Integrating land use and land cover change simulations and connectivity modelling: a case study in the Montérégie region in southern Quebec_
 
