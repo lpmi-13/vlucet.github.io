@@ -11,7 +11,7 @@ title: Research interests
 **Level:** beginner  
 **Length:** 1 hour (preparation) + 3 hours (material)  
 
-A small workshop geared toward R users, made by collating different open source material and aimed at teaching the basics of the the `git` command line as well as the how to use GitHub and GitHub clients like GitHub Desktop. Include a section on how to use git with RStudio.
+A small workshop geared toward R users, made by collating different open source material and aimed at teaching the basics of the the `git` command line as well as the how to use GitHub and GitHub clients like GitHub Desktop. Includes a section on how to use git with RStudio.
 
 <img style="float:right;width:10%;display:inline-block" hspace="10" src="https://grass.osgeo.org/uploads/images/logo/grassgis_logo_colorlogo_text_alphabg.png">
 ### Grass GIS in R with `rgrass7`

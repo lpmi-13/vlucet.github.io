@@ -9,38 +9,42 @@ title: CV
 
 **McGill University ~ Master of Science**  _Montreal, QC, Canada_  
 - **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_
-
-Thesis: _Socially realistic scenarios of land use change in Monteregie: implications for the conservation of ecological connectivity_
+  - _FRQNT Graduate Scholarship_
+  - Thesis (advisor: Prof. Andrew Gonzalez): _Integrating land use and land cover change simulations and connectivity modelling: a case study in the Montérégie region in southern Quebec_
 
 **McGill University ~ Bachelor of Science** _Montreal, QC, Canada_
 - **B.Sc. (Hons) Biology (Maj.) &amp; Anthropology (Min.)** _2014 ~ 2018_
-
-Focus on conservation biology and political ecology
-
-- _Frank Rigler Prize in Ecology_
+  - _Frank Rigler Prize in Ecology_
+  - Thesis (advisor: Prof. Frederic Guichard): _Differential habitat use between two parrotfish grazers modulates the resilience of Caribbean coral reefs_
+  - Focus on conservation biology and political ecology.
 
 **McGill University ~ McGill Bellairs Research Institute** _Holetown, Barbados &amp; Montreal_
 
 - _SURA (Student Undergraduate Research Award) ~ Summer 2017_
     - Project:Grazing preferences of coral reefs fishes, Fieldwork and ecological modelling.
     - Supervised by Dr Frederic Guichard (McGill University) and Henri Valles (University of West Indies).
-      - 2 weeks of field course in Applied Tropical Ecology
-      - 4 weeks of field work
+      - 2 weeks of field course in Applied Tropical Ecology, 4 weeks of field work
       - 8 weeks of internship at the laboratory of Dr Frederic Guichard to develop computer models
 
 **Lycée Saint Dominique ~ French Baccalaureate Diploma** _Paris, France_  
 Grade: 17.5/20, Scientific section _2011 - 2014_  
 - _Upper honours (&quot;mention trés bien&quot;)_
 
+## WORK EXPERIENCE
+
+**APEX Resource Management Solutions ~ Ecologist** Jan - May 2020
+- Contributed to the development of a Wetland Carbon Cycling model
+- Contributed to the package [`rsyncrosim`](https://CRAN.R-project.org/package=rsyncrosim) and lead the submission process to CRAN.
+
 ## TEACHING
 
 **McGill University**  
-**Teaching Assistant**  
+**Teaching Assistant**
 - Animal Diversity BIOL 305 ~ Labs, grading _Winter 2019_
 - Conservation Biology BIOL 465 ~ Tutorials, lectures, grading _Fall 2018 &amp; 2019 _
 
 **Statistics Undergraduate Tutor**    
-- Biometry BIOL 373 _Fall 2017 &amp; 2019_  
+- Biometry BIOL 373 _Fall 2018 &amp; 2019_  
 
 ## VOLUNTEERING
 
@@ -69,24 +73,9 @@ Grade: 17.5/20, Scientific section _2011 - 2014_
 
 **Technical competences**
 
-- R (Advanced) / Python, Matlab, Bash, Java, Html, CSS, (basic)
-- ArcMap, QGIS, GRASS (Advanced)
-- Word, Excel, PowerPoint, and Blog (WordPress) Mac and PC.
-
-**Science communication**
-
-- **Connecting Conservation Blog** [https://connectingconservation.blog/](https://connectingconservation.blog/)
-
-Promotes diversity, interdisciplinarity and accessibility in conservation sciences.  
-Funded by the Mary H Brown Fund (office of the Dean of students, McGill University)
-
-- **Science communication class**
-
-Participated in graduate level science communication class (CCOM 614)
-
-**Languages**
-
-French (native), English (bilingual), Spanish (moderate).
+- R (Advanced) / Python, Julia, bash (Intermediate), Matlab, Java, Html, CSS, (basic)
+- ArcMap, QGIS, GRASS GIS (Advanced)
+- Word, Excel, PowerPoint, and Blog (WordPress) Mac, PC, Linux.
 
 **Fundraising**
 
@@ -95,6 +84,7 @@ French (native), English (bilingual), Spanish (moderate).
 - Lead Ambassador and Student Member of the Board for Redpath Museum&#39;s &quot;[Cutting edge Lectures Project](https://www.mcgill.ca/seedsofchange/project/cutting-edge-lecture-series-project)&quot;, with McGill Seeds of Change crowdfunding platform.
     - **Goal of $5000, total of $2,850 raised in 108 days ~ funded at 57%**
 
-**Hobbies:**
 
-- Reading (science fiction and science vulgarization), photography, piano, hiking, sailing, diving (CMAS level 1), and skiing (junior competitor).
+**Languages**
+
+French (native), English (bilingual), Spanish (moderate).
