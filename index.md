@@ -7,4 +7,4 @@ I am a M.Sc. student in the Biology department at McGill University, supervised 
 
 I have a special interest in computationnal applications, R package development and teaching code. See my <a href="/teaching">Teaching</a> tab for more info.
 
-ollow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/research">read more about my research here</a>
+Follow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/research">read more about my research here</a>
