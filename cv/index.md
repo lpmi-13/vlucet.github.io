@@ -25,7 +25,7 @@ title: CV
     - Supervised by Prof. Frederic Guichard (McGill University) and Henri Valles (University of West Indies).
 
 **Lycée Saint Dominique ~ French Baccalaureate Diploma** _Paris, France_  
-Grade: 17.5/20 (&quot;mention trés bien&quot;), Scientific section _2011 - 2014_  
+Scientific section &quot;mention trés bien&quot; _2011 - 2014_  
 
 ## WORK EXPERIENCE
 
