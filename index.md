@@ -8,3 +8,8 @@ I am a M.Sc. student in the Biology department at McGill University, supervised 
 I have a special interest in computationnal applications, R package development and teaching code. See my <a href="/teaching">Teaching</a> tab for more info.
 
 Follow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/research">read more about my research here</a>
+
+## R projects
+### Packages
+
+[`rgovcan`](https://github.com/VLucet/rgovcan): A package to search for and download data from the Canadian Open Government portal <img src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width= 100, style="float: right;">
