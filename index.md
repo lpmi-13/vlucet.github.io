@@ -12,4 +12,4 @@ Follow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/res
 ## R projects
 ### Packages
 
-[`rgovcan`](https://github.com/VLucet/rgovcan): A package to search for and download data from the Canadian Open Government portal <img src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width= 100, style="float: right;">
+[`rgovcan`](https://github.com/VLucet/rgovcan): A package to search for and download data from the Canadian Open Government portal <img src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width= 100 style="float: right;">
