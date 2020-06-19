@@ -2,6 +2,7 @@ body {
     margin: 60px auto;
     width: 60%;
     font-family:"Tahoma", "Geneva", "sans-serif";
+    background-color: #e0ebeb;
 }
 nav ul, footer ul {
     font-family:"Tahoma", "Geneva", "sans-serif";
