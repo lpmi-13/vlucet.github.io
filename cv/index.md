@@ -7,13 +7,13 @@ title: CV
 
 ## EDUCATION and HONOURS
 
-**McGill University ~ Master of Science**  _Montreal, QC, Canada_ <img align="right" width="300" class="classic_img" src="/pics/mcgill_logo.png">
-- **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_
+**McGill University ~ Master of Science**  _Montreal, QC, Canada_
+- **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_ <img align="right" width="300" class="classic_img" src="/pics/mcgill_logo.png">
   - _FRQNT Graduate Scholarship_
   - Thesis (advisor: Prof. Andrew Gonzalez): _Integrating land use and land cover change simulations and connectivity modelling: a case study in the Montérégie region in southern Quebec_
 
-**McGill University ~ Bachelor of Science** _Montreal, QC, Canada_ <img align="right" width="250" class="classic_img" src="/pics/mcgill_biology.png">
-- **B.Sc. (Hons) Biology (Major) &amp; Anthropology (Minor)** _2014 ~ 2018_
+**McGill University ~ Bachelor of Science** _Montreal, QC, Canada_
+- **B.Sc. (Hons) Biology (Major) &amp; Anthropology (Minor)** _2014 ~ 2018_ <img align="right" width="250" class="classic_img" src="/pics/mcgill_biology.png">
   - _Frank Rigler Prize in Ecology_
   - Thesis (advisor: Prof. Frederic Guichard): _Differential habitat use between two parrotfish grazers modulates the resilience of Caribbean coral reefs_
   - Focus on conservation biology and political ecology.
