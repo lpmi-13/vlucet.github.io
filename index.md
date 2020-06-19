@@ -12,6 +12,6 @@ Follow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/res
 ## R projects
 ### Packages
 #### Maintained
-<img style="float: right;" src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width= 100>
+<img style="float: right;" src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width= 100 >
 [`rgovcan`](https://github.com/VLucet/rgovcan): A package to search for and download data from the Canadian Open Government portal.
 #### Contributed
