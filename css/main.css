@@ -38,10 +38,13 @@ p {
     text-align: justify;
     color: #333;
 }
-img {
+.round_img {
   border-radius: 50%;
 }
-#footer {
+.classic_img {
+
+}
+footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
     position: absolute;
@@ -57,10 +60,10 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
-#page-container {
+page-container {
   position: relative;
   min-height: 100vh;
 }
-#content-wrap {
+content-wrap {
   padding-bottom: 2.5rem;    /* Footer height */
 }
