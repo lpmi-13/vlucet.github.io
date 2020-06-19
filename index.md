@@ -11,7 +11,10 @@ Follow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/res
 
 ## R projects
 ### Packages
-#### Maintained
-<img style="float: right;" src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width="100">
-[`rgovcan`](https://github.com/VLucet/rgovcan): A package to search for and download data from the Canadian Open Government portal.
+#### Maintaining
+<a href="https://github.com/VLucet/rgovcan"> <img src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" width="150"> </a>
+<a href="https://github.com/VLucet/rgeobon"> <img src="https://github.com/VLucet/rgeobon/blob/master/inst/images/sticker.png?raw=true" width="150"> </a>
+<a href="https://github.com/VLucet/rgrassdoc"> <img src="https://github.com/VLucet/rgrassdoc/blob/master/images/final_sticker.png?raw=true" width="150"> </a>
 #### Contributed
+<a href="https://github.com/syncrosim/rsyncrosim"> <img src="https://github.com/syncrosim/rsyncrosim/blob/dev/inst/images/sticker.png?raw=true" width="150"> </a>
+<a href="https://github.com/simonmoulds/lulcc"> <img src="https://github.com/simonmoulds/lulcc/blob/master/inst/images/lulcc_sticker.png?raw=true" width="150"> </a>
