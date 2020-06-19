@@ -45,13 +45,12 @@ Scientific section &quot;mention trés bien&quot; _2011 - 2014_
 
 ## VOLUNTEERING
 
-**Redpath Museum** _2015-2018_
+**Redpath Museum** _2015-2018_ <img style="float: right;" width="150" class="classic_img" src="/pics/redpath_logo.png">
 - Community manager: Facebook page, Twitter and Instagram accounts  
 - Vice President Communications, then Vice President Events, then Vice President of the _Redpath Museum Students Society_ (RMS)  
 - **Founder / organiser** of the Redpath Museum annual Gala (2017-2018)
 
-**ARCHELON (Sea Turtle Protection Society of Greece)** _Chania &amp; Rethymnon, Crete_
-
+**ARCHELON (Sea Turtle Protection Society of Greece)** _Chania &amp; Rethymnon, Crete_ <img style="float: right;" width="170" class="classic_img" src="/pics/archelon_logo.png">
 - Volunteer Team member ~ Morning survey leader _Summer 2015, Summer 2016_
   - _Total of 5 months of experience in the field_  
   - Trained to conservation procedures for the Loggerhead Sea Turtle (_Caretta caretta_) for nesting and hatchling season. Public awareness training.
