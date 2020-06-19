@@ -29,7 +29,7 @@ Scientific section &quot;mention trés bien&quot; _2011 - 2014_
 
 ## WORK EXPERIENCE
 
-**APEX Resource Management Solutions ~ Ecologist** Jan - May 2020
+**APEX Resource Management Solutions ~ Ecologist** Jan - May 2020 <img style="float: right;" width="250" class="classic_img" src="/pics/apex_logo.png">
 - Contributed to the development of a Wetland Carbon Cycling model
 - Contributed to the package [`rsyncrosim`](https://CRAN.R-project.org/package=rsyncrosim) and lead the submission process to CRAN.
 
