@@ -21,10 +21,8 @@ title: CV
 **McGill University ~ McGill Bellairs Research Institute** _Holetown, Barbados &amp; Montreal_
 
 - _SURA (Student Undergraduate Research Award) ~ Summer 2017_
-    - Project:Grazing preferences of coral reefs fishes, Fieldwork and ecological modelling.
+    - Project:_Grazing preferences of coral reefs fishes, Fieldwork and ecological modelling_.
     - Supervised by Dr Frederic Guichard (McGill University) and Henri Valles (University of West Indies).
-      - 2 weeks of field course in Applied Tropical Ecology, 4 weeks of field work
-      - 8 weeks of internship at the laboratory of Dr Frederic Guichard to develop computer models
 
 **Lycée Saint Dominique ~ French Baccalaureate Diploma** _Paris, France_  
 Grade: 17.5/20, Scientific section _2011 - 2014_  
