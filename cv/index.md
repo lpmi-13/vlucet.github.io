@@ -8,12 +8,12 @@ title: CV
 ## EDUCATION and HONOURS
 
 **McGill University ~ Master of Science**  _Montreal, QC, Canada_
-- **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_ <a href="https://www.mcgill.ca/"> <img style="float: right;" width="310" class="classic_img" src="/pics/mcgill_logo.png"> </a>
+- **M.Sc. Biology, [Gonzalez Lab]()** _2018 ~ present_ <a href="https://www.mcgill.ca/"> <img style="float: right;" width="310" class="classic_img" alt="" src="/pics/mcgill_logo.png"> </a>
   - _FRQNT Graduate Scholarship_
   - Thesis (advisor: Prof. Andrew Gonzalez): _Integrating land use and land cover change simulations and connectivity modelling: a case study in the Montérégie region in southern Quebec_
 
 **McGill University ~ Bachelor of Science** _Montreal, QC, Canada_
-- **B.Sc. (Hons) Biology (Major) &amp; Anthropology (Minor)** _2014 ~ 2018_ <a href="https://www.mcgill.ca/biology/"> <img style="float: right;" width="250" class="classic_img" src="/pics/mcgill_biology.png"> </a>
+- **B.Sc. (Hons) Biology (Major) &amp; Anthropology (Minor)** _2014 ~ 2018_ <a href="https://www.mcgill.ca/biology/"> <img style="float: right;" width="250" class="classic_img" alt="" src="/pics/mcgill_biology.png"> </a>
   - _Frank Rigler Prize in Ecology_
   - Thesis (advisor: Prof. Frederic Guichard): _Differential habitat use between two parrotfish grazers modulates the resilience of Caribbean coral reefs_
   - Focus on conservation biology and political ecology.
@@ -28,7 +28,7 @@ title: CV
 Scientific section &quot;mention trés bien&quot; _2011 - 2014_  
 
 ## WORK EXPERIENCE
-<a href="http://www.apexrms.com/"> <img style="float: right;" width="170" class="classic_img" src="/pics/apex_logo.png"> </a>
+<a href="http://www.apexrms.com/"> <img style="float: right;" width="170" class="classic_img" alt="" src="/pics/apex_logo.png"> </a>
 **APEX Resource Management Solutions ~ Ecologist** Jan - May 2020
 - Contributed to the development of a Wetland Carbon Cycling model
 - Contributed to the package [`rsyncrosim`](https://CRAN.R-project.org/package=rsyncrosim) and lead the submission process to CRAN.
@@ -45,13 +45,13 @@ Scientific section &quot;mention trés bien&quot; _2011 - 2014_
 
 ## VOLUNTEERING
 
-**Redpath Museum** _2015-2018_ <a href="https://www.mcgill.ca/redpath/"> <img style="float: right;" width="150" class="classic_img" src="/pics/redpath_logo.png"> </a>
+**Redpath Museum** _2015-2018_ <a href="https://www.mcgill.ca/redpath/"> <img style="float: right;" width="150" class="classic_img" alt="" src="/pics/redpath_logo.png"> </a>
 - Community manager: Facebook page, Twitter and Instagram accounts  
 - Vice President Communications, then Vice President Events, then Vice President of the _Redpath Museum Students Society_ (RMS)  
 - **Founder / organiser** of the Redpath Museum annual Gala (2017-2018)
 
 **ARCHELON (Sea Turtle Protection Society of Greece)** _Chania &amp; Rethymnon, Crete_
-- Volunteer Team member ~ Morning survey leader _Summer 2015, Summer 2016_ <a href="https://www.archelon.gr/index_eng.php"> <img style="float: right;" width="150" class="classic_img" src="/pics/archelon_logo.png"> </a>
+- Volunteer Team member ~ Morning survey leader _Summer 2015, Summer 2016_ <a href="https://www.archelon.gr/index_eng.php"> <img style="float: right;" width="150" class="classic_img" alt="" src="/pics/archelon_logo.png"> </a>
   - _Total of 5 months of experience in the field_  
   - Trained to conservation procedures for the Loggerhead Sea Turtle (_Caretta caretta_) for nesting and hatchling season. Public awareness training.
 
