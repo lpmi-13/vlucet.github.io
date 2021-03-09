@@ -12,9 +12,10 @@ Follow me on <a href="https://twitter.com/vlucet">Twitter</a>, and <a href="/res
 ## R projects
 ### Packages
 #### Maintaining
-<a href="https://github.com/VLucet/rgovcan" aria-label="link to rgovcan project"> <img src="https://github.com/VLucet/rgovcan/blob/master/inst/rgovcan_hex.png?raw=true" alt="" width="150"> </a>
+<a href="https://github.com/VLucet/rgovcan" aria-label="link to rgovcan project"> <img src="https://github.com/VLucet/rgovcan/blob/master/man/figures/logo.png?raw=true" alt="" width="150"> </a>
 <a href="https://github.com/VLucet/rgeobon" aria-label="link to rgeobon project"> <img src="https://github.com/VLucet/rgeobon/blob/master/inst/images/sticker.png?raw=true" alt="" width="150"> </a>
 <a href="https://github.com/VLucet/rgrassdoc" aria-label="link to rgrassdoc project"> <img src="https://github.com/VLucet/rgrassdoc/blob/master/images/final_sticker.png?raw=true" alt="" width="150"> </a>
+
 #### Contributed
 <a href="https://github.com/syncrosim/rsyncrosim" aria-label="link to the rsyncrosim project"> <img src="https://github.com/syncrosim/rsyncrosim/blob/dev/inst/images/sticker.png?raw=true" alt="" width="150"> </a>
 <a href="https://github.com/simonmoulds/lulcc" aria-label="link to the lulcc project"> <img src="https://github.com/simonmoulds/lulcc/blob/master/inst/images/lulcc_sticker.png?raw=true" alt="" width="150"> </a>
